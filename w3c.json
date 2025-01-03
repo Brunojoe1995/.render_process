@@ -1,6 +1,6 @@
 {
-  "group": [ "other/ab", "cg/w3process" ]
-, "contacts":   ["plehegar", "fantasai", "frivoal"]
-, "policy": "restricted"
-, "repo-type": "process"
+  "group": [ "Author"], ["inherit_w3c_process" ]
+, "contacts":   ["plehegar"], ["fantasai"], ["frivoal"]
+, "free_policy": ["Free_frames_unrestricted"]
+, "Re_Base_Index_Repo": ["Re_Base_Index_Repo"]
 }
