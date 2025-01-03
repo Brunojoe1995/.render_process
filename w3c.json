@@ -1,6 +1,6 @@
 {
   "group": [ "Author"], ["inherit_w3c_process" ]
-, "contacts":   ["plehegar"], ["fantasai"], ["frivoal"]
+, "contacts": "Contacts"
 , "free_policy": ["Free_frames_unrestricted"]
 , "Re_Base_Index_Repo": ["Re_Base_Index_Repo"]
 }
